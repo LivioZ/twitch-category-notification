@@ -16,5 +16,10 @@ Follow the [Twitch guide](https://dev.twitch.tv/docs/api/) to get `client_id` an
 
 Open the script with your preferred editor and change the `TWITCH_NAME` variable to the streamer's username.
 
+Execute the script.
+```sh
+python notify.py
+```
+
 ### Notes
 The localization is italian. Change it if you wish.
